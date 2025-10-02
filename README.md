@@ -1,4 +1,6 @@
- Olá Mundo!! 👋
+I am a professional fullstack developer, working with TypeScript, REST APIs, and Vue.js, integrating systems and creating efficient solutions.
+
+Currently, I am working on an academic project in Python focused on vehicle-to-user communication via OBD2, collecting real-time data and providing preventive insights.
 
 
 <a href="https://github.com/guizinim">
